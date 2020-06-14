@@ -1,4 +1,3 @@
-![](demo-0.gif)
 # covidshell
 An application to track corona virus's effects at-a-glance in your terminal
 ## Installation
