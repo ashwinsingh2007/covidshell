@@ -1,0 +1,30 @@
+{
+  "name": "covidshell",
+  "bin": "./index.js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebwinters/covidshell"
+  },
+  "keywords": [
+    "covid",
+    "virus",
+    "corona virus",
+    "covid cli",
+    "covid shell",
+    "covid tracker"
+  ],
+  "author": "Ashwani Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.11",
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.0",
+    "cli-table": "^0.3.1"
+  }
+}
